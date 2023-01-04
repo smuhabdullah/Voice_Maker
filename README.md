@@ -4,7 +4,7 @@
 
 ---
 <h3 align="center">
-    🎈 Try it out here: <a href="https://voicemaker.streamlit.app/">Voice Maker on streamlit 🎈 </a>
+    🎈 Try it out here: <a href="https://voicemaker.streamlit.app/" target="_blank">Voice Maker on streamlit 🎈 </a>
 </h3>
 
 ---
@@ -12,7 +12,7 @@
 
 
 <p align="center">
-    <a href="https://voicemaker.streamlit.app/"><img src="voicemaker.png" width=700></a>
+    <a href="https://voicemaker.streamlit.app/" target="_blank"><img src="voicemaker.png" width=700></a>
 </p>
 
 <br>
